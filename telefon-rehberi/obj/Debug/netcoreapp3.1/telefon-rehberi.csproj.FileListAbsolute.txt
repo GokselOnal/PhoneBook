@@ -1,0 +1,13 @@
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\obj\Debug\netcoreapp3.1\telefon-rehberi.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\obj\Debug\netcoreapp3.1\telefon-rehberi.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\obj\Debug\netcoreapp3.1\telefon-rehberi.AssemblyInfo.cs
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\obj\Debug\netcoreapp3.1\telefon-rehberi.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\bin\Debug\netcoreapp3.1\telefon-rehberi.exe
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\bin\Debug\netcoreapp3.1\telefon-rehberi.deps.json
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\bin\Debug\netcoreapp3.1\telefon-rehberi.runtimeconfig.json
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\bin\Debug\netcoreapp3.1\telefon-rehberi.runtimeconfig.dev.json
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\bin\Debug\netcoreapp3.1\telefon-rehberi.dll
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\bin\Debug\netcoreapp3.1\telefon-rehberi.pdb
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\obj\Debug\netcoreapp3.1\telefon-rehberi.dll
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\obj\Debug\netcoreapp3.1\telefon-rehberi.pdb
+C:\Users\MSI\Desktop\C#\Projeler\telefon-rehberi\obj\Debug\netcoreapp3.1\telefon-rehberi.genruntimeconfig.cache
